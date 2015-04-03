@@ -10,3 +10,8 @@ BinarySearchTree: header included in .cpp file for simplicity when interfacing t
 B+ Tree: Working B+ Tree implementation
 
 Autofill: Search prediction and word completion with database made from data.txt (first chapter of huckleberry finn)
+
+Trinary Tree: revision of BinarySearchTree with insert and delete functions, and three child nodes per node
+
+StringToLong: quick practice run of converting a String to a Long Int
+
